@@ -8,7 +8,7 @@ import "@react-pdf-viewer/default-layout/lib/styles/index.css";
 
 const NavBar: React.FC = () => {
  const pdfUrl =
-    "https://www.dropbox.com/scl/fi/guffkljs4bttuv1yzjwu4/rashaadsitresume.pdf?rlkey=vw8y5lhjf0zrmnmh4p1owj18l&dl=0";
+    "https://www.dropbox.com/scl/fi/cfkdi08alejk6cs54ziwl/PortfolioResume.pdf?rlkey=7zl2olcxfzgrvhtnnnsdyq1bz&st=611o37ol&dl=0";
 
   const downloadPdf = () => {
     saveAs(pdfUrl, "resume.pdf");
