@@ -32,7 +32,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2020 - 2023</p>
           <p>Student</p>
           <ul className="my-12">
-            <li className="my-3">
+            <li className="mb-6">
               Learned some concepts, methodologies, and tehcnologies.
             </li>
           </ul>
