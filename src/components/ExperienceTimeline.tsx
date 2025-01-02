@@ -13,8 +13,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2017 - 2019</p>
           <ul className="my-12">
             <li className="my-3">
-              • Provided efficient and courteous service to customers by utilizing customer service excellence skills, occasionally earning praise from
-              customers.
+              Worked as a cashier.
             </li>
           </ul>
         </div>
@@ -24,8 +23,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2018 - 2019</p>
           <ul className="my-12">
             <li className="my-3">
-              • Streamlined maintenance procedures by implementing proactive inspection schedules, resulting in reduced downtime and enhanced facility
-              efficiency.
+              Worked as a maintenance person.
             </li>
           </ul>
         </div>
@@ -35,8 +33,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>Student</p>
           <ul className="my-12">
             <li className="my-3">
-              • Mastered advanced concepts in operating systems and networks through rigorous coursework, gaining proficiency in system administration, network
-              configuration, and troubleshooting methodologies.
+              Learned some concepts, methodologies, and tehcnologies.
             </li>
           </ul>
         </div>
@@ -46,8 +43,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2023 - 2024</p>
           <ul className="my-12">
             <li>
-              • Enhanced workflow efficiency by up to 10% monthly through proactive ticketing with the software operations team, facilitating load and structure
-              between different departments, with a group of 5.
+             Built websites.
             </li>
           </ul>
         </div>
@@ -57,8 +53,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2023 - 2024</p>
           <ul className="my-12">
             <li>
-              • Installed and created changes to computer systems using ethernet connections/cables and network options while troubleshooting and resolving
-              network problems to ensure students can log in and use Windows 10/11 systems to learn.
+              Learned how to teach students and mentor.
             </li>
           </ul>
         </div>
@@ -68,8 +63,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2024 - Present</p>
           <ul className="my-12">
             <li>
-              • Regularly installed approximately 30 Acer cashier/customer monitors, Honeywell handscanners, and Ingenico pin-pads for front-end lanes and
-              self-checkout a week with best practices to satisfy the needs of the store and customers.
+              Currently a technician.
             </li>
           </ul>
         </div>
