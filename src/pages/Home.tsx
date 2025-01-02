@@ -20,7 +20,7 @@ const Home: React.FC = () => {
             my name is Rashaad Jones.
           </h2>
           <h2 className="container-lg" data-aos="fade-right" data-aos-duration="3000">
-            I am an information / cloud technology enthusiast who enjoys dabbling with different technologies.
+            I am an information technology enthusiast who enjoys dabbling with different technologies.
           </h2>
           <div className="container-lg flex">
             <div className="my-16">
