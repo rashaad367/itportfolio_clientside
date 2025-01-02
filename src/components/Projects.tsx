@@ -15,7 +15,6 @@ const Projects: React.FC = () => {
             button1Text="View"
             link="https://rashaadjones367.wixsite.com/my-site/"
           />
-      </div>
     </>
   );
 };
