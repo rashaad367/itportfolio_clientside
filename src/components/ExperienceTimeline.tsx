@@ -23,7 +23,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2018 - 2019</p>
           <ul className="my-12">
             <li className="my-3">
-              Worked as a maintenance person.
+              Worked maintenance.
             </li>
           </ul>
         </div>
@@ -33,7 +33,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>Student</p>
           <ul className="my-12">
             <li className="my-3">
-              Learned some concepts, methodologies, and tehcnologies.
+              Learned some concepts.
             </li>
           </ul>
         </div>
@@ -53,7 +53,7 @@ const ExperienceTimelime: React.FC = () => {
           <p>2023 - 2024</p>
           <ul className="my-12">
             <li>
-              Learned how to teach students and mentor.
+              Learned how to teach.
             </li>
           </ul>
         </div>
