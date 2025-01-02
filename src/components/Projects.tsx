@@ -12,7 +12,7 @@ const Projects: React.FC = () => {
           <ProjectCards
             name="My Blog"
             imageUrl={image1}
-            description="My blog with various blog post."
+            description="What I've been doing."
             button1Text="View"
             link="https://rashaadjones367.wixsite.com/my-site/"
           />
