@@ -8,7 +8,7 @@ const Projects: React.FC = () => {
       <h2 className="sub-heading container-lg" data-aos="fade-in" data-aos-duration="3000">
         Blog
       </h2>
-      <div className="containger-lg">
+      <div className="container-lg">
           <ProjectCards
             name="My Blog"
             imageUrl={image1}
