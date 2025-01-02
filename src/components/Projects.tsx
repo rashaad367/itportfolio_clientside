@@ -11,9 +11,16 @@ const Projects: React.FC = () => {
       <ProjectCards
         name="Helpdesk Project"
         imageUrl={image1}
-        description="A lab dedicated to learning Helpdesk workflows"
+        description="A lab dedicated to learning Helpdesk workflows."
         button1Text="View"
         link="/project1"
+      />
+      <ProjectCards
+        name="My Blog"
+        imageUrl={image1}
+        description="My blog with various blog post."
+        button1Text="View"
+        link="https://rashaadjones367.wixsite.com/my-site/"
       />
     </>
   );
