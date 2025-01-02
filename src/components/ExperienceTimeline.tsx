@@ -7,7 +7,7 @@ const ExperienceTimelime: React.FC = () => {
       <h2 className="sub-heading container-lg">Experience</h2>
       <hr className="container-lg" />
       <div className="container-lg flex">
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">Harris Teeter</h2>
           <p>Cashier</p>
           <p>2017 - 2019</p>
@@ -17,7 +17,7 @@ const ExperienceTimelime: React.FC = () => {
             </li>
           </ul>
         </div>
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">YMCA</h2>
           <p>Maintenance</p>
           <p>2018 - 2019</p>
@@ -27,7 +27,7 @@ const ExperienceTimelime: React.FC = () => {
             </li>
           </ul>
         </div>
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">University of North Carolina at Charlotte</h2>
           <p>2020 - 2023</p>
           <p>Student</p>
@@ -37,7 +37,7 @@ const ExperienceTimelime: React.FC = () => {
             </li>
           </ul>
         </div>
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">Reunion Marketing</h2>
           <p>Web Designer</p>
           <p>2023 - 2024</p>
@@ -47,7 +47,7 @@ const ExperienceTimelime: React.FC = () => {
             </li>
           </ul>
         </div>
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">Digital Brilliance Hour</h2>
           <p>Teacher / Mentor</p>
           <p>2023 - 2024</p>
@@ -57,7 +57,7 @@ const ExperienceTimelime: React.FC = () => {
             </li>
           </ul>
         </div>
-        <div className="mx-2">
+        <div className="mx-2 w-1/6">
           <h2 className="my-2">PiperTech</h2>
           <p>IT Technician</p>
           <p>2024 - Present</p>
