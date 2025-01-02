@@ -8,20 +8,22 @@ const Projects: React.FC = () => {
       <h2 className="sub-heading container-lg" data-aos="fade-in" data-aos-duration="3000">
         Projects
       </h2>
-      <ProjectCards
-        name="Helpdesk Project"
-        imageUrl={image1}
-        description="A lab dedicated to learning Helpdesk workflows."
-        button1Text="View"
-        link="/project1"
-      />
-      <ProjectCards
-        name="My Blog"
-        imageUrl={image1}
-        description="My blog with various blog post."
-        button1Text="View"
-        link="https://rashaadjones367.wixsite.com/my-site/"
-      />
+      <div className={style.cardBackground}>
+          <ProjectCards
+            name="Helpdesk Project"
+            imageUrl={image1}
+            description="A lab dedicated to learning Helpdesk workflows."
+            button1Text="View"
+            link="/project1"
+          />
+          <ProjectCards
+            name="My Blog"
+            imageUrl={image1}
+            description="My blog with various blog post."
+            button1Text="View"
+            link="https://rashaadjones367.wixsite.com/my-site/"
+          />
+        </div>
     </>
   );
 };
