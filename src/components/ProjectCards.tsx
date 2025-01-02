@@ -11,6 +11,8 @@ type CardProps = {
 
 const Card: React.FC<CardProps> = ({ name, imageUrl, description, button1Text, link }) => {
   return (
+        <div className="container-lg border">
+      <div className={style.cardBackground}>
         <div className={style.pcard}>
           <h1 className="font-mono center leading-loose text-white font-bold">{name}</h1>
           <img src={imageUrl} alt="Card" className="mb-4" />
@@ -21,6 +23,8 @@ const Card: React.FC<CardProps> = ({ name, imageUrl, description, button1Text, l
             </a>
           </div>
         </div>
+      </div>
+    </div>
   );
 };
 
