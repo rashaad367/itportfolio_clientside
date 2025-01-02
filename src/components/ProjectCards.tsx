@@ -21,7 +21,6 @@ const Card: React.FC<CardProps> = ({ name, imageUrl, description, button1Text, l
             </a>
           </div>
         </div>
-      </div>
   );
 };
 
