@@ -6,7 +6,7 @@ const ExperienceTimelime: React.FC = () => {
     <>
       <h2 className="sub-heading container-lg">Experience</h2>
       <hr className="container-lg" />
-      <div className="container-lg flex justify-evenly">
+      <div className="container-lg flex">
         <div className="mx-2">
           <h2 className="my-2">Harris Teeter</h2>
           <p>Cashier</p>
