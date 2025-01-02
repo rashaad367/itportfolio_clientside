@@ -8,6 +8,7 @@ const Projects: React.FC = () => {
       <h2 className="sub-heading container-lg" data-aos="fade-in" data-aos-duration="3000">
         Projects
       </h2>
+      <div className="container-lg flex justify-evenly">
           <ProjectCards
             name="Helpdesk Project"
             imageUrl={image1}
@@ -22,6 +23,7 @@ const Projects: React.FC = () => {
             button1Text="View"
             link="https://rashaadjones367.wixsite.com/my-site/"
           />
+      </div>
     </>
   );
 };
