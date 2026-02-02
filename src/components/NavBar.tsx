@@ -18,10 +18,10 @@ const NavBar: React.FC = () => {
     <nav
       className={`flex items-center justify-between px-4 py-2`}
     >
-      <div className="text-white front-bold text-lg">RJ</div>
+      <div className="text-black front-bold text-lg">RJ</div>
       <ul className="flex space-x-4">
         <li key="home">
-          <a href="/" className="text-white border-2 px-2">
+          <a href="/" className="text-black border-2 px-2">
             Home
           </a>
         </li>
