@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 html {
-    background-color: #101010;
+    background-color: #FFF;
 }
 
 .container {
@@ -26,10 +26,10 @@ html {
 .heading {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4rem;
-    color: #FFF;
+    color: #000;
     letter-spacing: 2px;
     text-transform: uppercase;
-    background: #FFF;
+    background: #000;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -38,7 +38,7 @@ html {
 .sub-heading {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;        
-    color: #FFF;
+    color: #000;
 }
 
 .down-arrow {
@@ -63,20 +63,20 @@ html {
 }
 
 hr {
-    background-color: #FFF;
+    background-color: #000;
     height: 2px;
 }
 
 h2 {
-    color: #FFF;
+    color: #000;
 }
 
 p {
-    color: #FFF;
+    color: #000;
 }
 
 li {
-    color: #fff;
+    color: #000;
 }
 
 // Responsive CSS
