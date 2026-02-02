@@ -30,7 +30,6 @@ const NavBar: React.FC = () => {
             Blog
           </a>
         </li>
-        </li>
       </ul>
     </nav>
   );
