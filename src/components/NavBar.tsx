@@ -26,14 +26,10 @@ const NavBar: React.FC = () => {
           </a>
         </li>
         <li key="blog">
-          <a href="https://rashaadjones367.wixsite.com/my-site/" className="text-white border-2 px-2">
+          <a href="https://rashaadjones367.wixsite.com/my-site/projects" className="text-white border-2 px-2">
             Blog
           </a>
         </li>
-        <li key="resume">
-          <a onClick={downloadPdf} className="text-white border-2 px-2 cursor-pointer">
-            Resume/CV
-          </a>
         </li>
       </ul>
     </nav>
