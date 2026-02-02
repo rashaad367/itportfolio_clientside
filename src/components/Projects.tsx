@@ -14,7 +14,7 @@ const Projects: React.FC = () => {
             imageUrl={image1}
             description="What I've been doing."
             button1Text="View"
-            link="https://rashaadjones367.wixsite.com/my-site/"
+            link="https://rashaadjones367.wixsite.com/my-site/post/projects"
           />
       </div>
     </>
