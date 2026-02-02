@@ -26,7 +26,7 @@ const NavBar: React.FC = () => {
           </a>
         </li>
         <li key="blog">
-          <a href="https://rashaadjones367.wixsite.com/my-site/post/projects" className="text-white border-2 px-2">
+          <a href="https://rashaadjones367.wixsite.com/my-site/post/projects" className="text-black border-2 px-2">
             Blog
           </a>
         </li>
